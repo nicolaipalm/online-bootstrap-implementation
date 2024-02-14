@@ -1,0 +1,4 @@
+,Stochastic process,mean,mean,mean,mean,std,std,std,In confidence interval,In confidence interval,In confidence interval,In confidence interval
+,,Asymptotic variance,AR,Multiplier,MA,AR,Multiplier,MA,Confidence level,AR,Multiplier,MA
+Sample size,,,,,,,,,,,,
+1000,MA(10),3.9960947036743164,3.5821027720397898,1.3222516120056034,3.571084594989697,0.907074151938378,0.20767174174122782,0.8499781749599865,0.95,0.91,0.7,0.92

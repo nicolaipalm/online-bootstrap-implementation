@@ -1,0 +1,4 @@
+,mean,mean,mean,mean,std,std,std,In confidence interval,In confidence interval,In confidence interval,In confidence interval
+,Asymptotic variance,AR,Multiplier,MA,AR,Multiplier,MA,Confidence level,AR,Multiplier,MA
+Sample size,,,,,,,,,,,
+2000,167.20683447650424,162.03956476317592,70.92755800310555,163.61887742375444,29.411724382769446,9.587613242076062,25.55724513880051,0.9,0.852,0.68,0.836
