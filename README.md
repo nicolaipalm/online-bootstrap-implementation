@@ -9,7 +9,7 @@ You can clone this repository and install its requirements by running the follow
 
 ```shell
 git clone git@github.com:nicolaipalm/bootstrap.git
-cd online-bootstrap
+cd online-bootstrap-implementation
 pip install -r requirements.txt
 ```
 
