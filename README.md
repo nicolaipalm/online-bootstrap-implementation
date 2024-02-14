@@ -1,5 +1,5 @@
 # An online bootstrap for time series - Implementation
-This module contains the implementation of the AR online bootstrap proposed in [this paper]() and its benchmark
+This module contains the implementation of the AR online bootstrap proposed in [this paper](https://arxiv.org/abs/2310.19683) and its benchmark
 against the standard iid bootstrap and the (offline) MA bootstrap for time series.
 The latter may be found in the benchmarking submodule.
 
@@ -8,7 +8,7 @@ The latter may be found in the benchmarking submodule.
 You can clone this repository and install its requirements by running the following commands:
 
 ```shell
-git clone git@github.com:nicolaipalm/bootstrap.git
+git clone git@github.com:nicolaipalm/online-bootstrap-implementation.git
 cd online-bootstrap-implementation
 pip install -r requirements.txt
 ```

@@ -2,3 +2,5 @@ numpy>=1.21.2
 pandas>=1.4.3
 tqdm>=4.66.2
 jupyter>=1.0.0
+matplotlib>=3.4.3
+multiprocess>=0.70.16
