@@ -51,7 +51,6 @@ class OnlineBootstrap:
     @property
     def estimated_asymptotic_variance(self) -> np.ndarray:
         """Calculate the variance of the bootstrapped samples in each dimension
-        # TODO: not average but sqrt -> formula
 
         Returns
         -------

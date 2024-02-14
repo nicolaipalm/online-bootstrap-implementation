@@ -27,9 +27,6 @@ class GARCH:
         # h_t = a_0 + sum_{i=1}^q a_i epsilon_{t-i}^2 + sum_{i=1}^p b_i * h_{t-1}
         #     =here= parameter(1+sum_{i=1}^q epsilon_{t-i}^2 + sum_{i=1}^p h_{t-1})
 
-        # GARCH model: uncorrelated, strictly stationary...
-
-        # initial zero array for samples
         q = len(self.alpha)
         p = len(self.beta)
         garch = model(p=p, q=q, )
